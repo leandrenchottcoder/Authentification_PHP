@@ -1,0 +1,26 @@
+body{
+	background-color: silver;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.menu ul #li{
+	display: inline;
+	list-style-type: none;
+	line-height: 70px;
+
+	
+	
+}
+.menu ul #li a{
+	text-decoration: none;
+	padding: 15px;
+	color: black;
+}
+header{
+	display: flex;
+}
+
+.h1{
+	line-height: 10px;
+}
